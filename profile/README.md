@@ -1,4 +1,4 @@
-# Jala University Bootcamp 2 - Project
+# Jala University Bootcamp
 
 ## Overview:
 
